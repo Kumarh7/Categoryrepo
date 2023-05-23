@@ -1,14 +1,12 @@
-# Project proposel
+# CategoryID
+- Name
+- Date
 
 ## Description
 
 Enter the description of your project here.
 
-## Need to have list
-- working character
-- score system
-
-## nice to have a list
-
-- sound effect
-- simple AI
+## Main Point
+- Created_at
+- Updated_at
+- deleted_at
